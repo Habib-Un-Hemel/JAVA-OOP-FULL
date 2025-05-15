@@ -17,7 +17,7 @@ public class Object_Class_1 {
         String color = "RED";
     }
 
-    //Step3 -> Object manipulation after initia lization
+    //Step3 -> Object manipulation after initialization
     static  class Cat {
         String bread = "Persian";
         String name = "Meuko";
