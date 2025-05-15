@@ -5,7 +5,9 @@ public class Constructor_2 {
     static class Student {
         int id;
         String name;
+
         float marks;
+
 
         //this is a constructor
         Student(){
